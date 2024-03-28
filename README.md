@@ -11,3 +11,8 @@ https://youtu.be/etHl_bEfQ0c
 Install Ollama - https://ollama.com
 
 pip3 install ollama
+
+
+## Warning
+Make sure Ollama is running on your system before you run your Python script
+
